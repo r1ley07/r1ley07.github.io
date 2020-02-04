@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "r1ley07"
   avatar           : "/images/Riley-freeman.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "OSCP | SSCP | Sec+"
+  bio              : ""
   location         : "London Town"
   email            :
   links:
